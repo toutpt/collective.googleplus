@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layers>
+    <!-- -*- extra stuff goes here -*- -->
+
+    <layer name="GooglePlusLayer"
+        interface="collective.googleplus.interfaces.googlepluslayerlayer.IGooglePlusLayer"
+    />
+</layers>
+
